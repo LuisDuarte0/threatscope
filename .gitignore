@@ -1,0 +1,27 @@
+# Environment
+.env
+*.env
+
+# Database (local data — not committed)
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+
+# Reports output
+reports/output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
