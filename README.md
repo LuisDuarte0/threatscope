@@ -27,6 +27,7 @@ It started as a personal project to scratch an itch: I wanted a single place to 
 **Threat Landscape** — aggregate view of severity distribution, source breakdown, and IoC type breakdown
 
 ![Threat Landscape](screenshots/threat_landscape.png)
+![Threat Landscape](screenshots/threat_landscape2.png)
 
 **Report Generator** — export filtered threat data as CSV or PDF for a selected time range
 
